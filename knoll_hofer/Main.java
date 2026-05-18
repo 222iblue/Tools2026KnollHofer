@@ -7,5 +7,6 @@ public class Main {
     public string thisIsANewMethod(){
         String msg = "ich habe den Bug gefixed";
         System.out.println(msg);
+        return msg;
     }
 }
