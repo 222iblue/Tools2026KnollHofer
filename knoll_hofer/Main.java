@@ -6,6 +6,8 @@ public class Main {
     
     public string thisIsANewMethod(){
         int num = 5;
+        double anotherNum = 4.3;
+        char c = 'c';
     }
     
     
