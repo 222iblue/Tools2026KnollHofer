@@ -4,5 +4,7 @@ public class Main {
         System.out.println("Hello Git2");
     }
     
-    public string thisIsANewMethod(){}
+    public string thisIsANewMethod(){
+        String msg = "ich habe den Bug gefixed";
+    }
 }
